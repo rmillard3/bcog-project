@@ -1,0 +1,5 @@
+The functionality of the program can be tested by participating in the questionnaire and then receiving a recommendation. Once the program is opened, a separate window
+will be opened and the first question will appear. There will be multiple buttons underneath the question so that the user can choose an answer that best describes
+them. Depending on the answer that the user chooses, it will take them to a different question, and this process will continue for a little bit. Depending on the answer
+that is chosen, the user will be put on one specific path. In order to make sure that the entire program works correctly, the user could continue to answer the 
+questions while providing a different answer each time. This would ensure that a different book is recommended each time. 
