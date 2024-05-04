@@ -4,7 +4,8 @@ import csv
 from tkinter import ttk
 import random
 
-
+# The link below is the link that one has to download in order for the program to run properly.
+# https://uillinoisedu-my.sharepoint.com/:x:/g/personal/millard5_illinois_edu/EbsEIGfYndlEqL65ufXgE7EB0BL_cM43gcdNSr95KQy_kQ?e=mta1H4
 class Book:
 
 
