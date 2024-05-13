@@ -1,6 +1,8 @@
 - Many times, there are both new and experienced readers who have no clue what they should read. The purpose of this project is to create a easy way for readers to get
 recommendations for books that they should read based on a questionnaire that evaluates their interests. 
-- In order for the program to work, the user will need to input responses/perform actions based on questions given to them. To make this work, a GUI will be needed.
-Within the GUI, there will be a series of questions that the user will answer, and based on the button they click as their answer, it will take them to a different
-question. I'm not quite sure what I want the end result to be, but I think that it would be cool to have a picture of the final book recommendation to pop up at the
-end. I think that the type of GUI I will be using is tkinter, but I am still trying to hammer out the details. 
+- The first thing the user must do when they attempt to run this program is to go to the URL that is linked at the top of the code and download that file. That file
+contains all of the books and their information that the code will pull from. Once the file is downloaded, the user should be able to run the code as normal. Once run,
+a new window will pop up that contains questions the user can answer as well as choices to choose from. After the user has answered all of the questions that they 
+wanted to, they can press the "Go" button and a book will be recommended to them. Along with being given the book title, the author, a description, the isbn, and 
+the series (if applicable) will also be shown. If the user is not happy with the book that was recommended to them, they can press the "Choose another book" button and
+a new book will be recommended to them. Once they are satisfied with what they have received, they can press the "Quit" button.
